@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Meliha
+
+🎓 Math & Computer Science student  
+💻 Learning Python, Dart & Flutter  
+🧠 Building projects like Smart Math Solver  
+📚 Interested in coding, mathematics and creative writing
+
+## 🚀 Current Project
+- Smart Math Solver
+
 
 <!--
 **melihamimar/melihamimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
